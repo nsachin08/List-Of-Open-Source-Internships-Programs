@@ -1,20 +1,20 @@
-This repo is being continuously updated by me as a help to @tapeswinpatak as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs
+This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
 
-All PR's are now being entertained ,Please star this repo in order to get further updates
+All PR's are now being entertained, Please star this repo in order to get further updates
 
 
 | Name                                    | Stipend | Timeline            |
 |-----------------------------------------|-------------|-----------------|
 | [MLH Open Source Fellowship](https://fellowship.mlh.io/) | Yes | [timeline](https://fellowship.mlh.io/programs/open-source) |
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) |
-| [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
+| [Season of KDE](https://season.kde.org) | No      | [timeline](https://season.kde.org/) |
 | [Outreachy](https://www.gnome.org/outreachy/) | Yes | [timeline](https://www.gnome.org/outreachy/) |
 | [RGSOC](https://railsgirlssummerofcode.org/) | Yes | [timeline](https://railsgirlssummerofcode.org/) |
 | [Tweag I/O Summer Internship](https://www.tweag.io/posts/2019-03-11-internships.html)|Yes|[timeline](https://www.tweag.io/posts/2019-03-11-internships.html#time)|
 | [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes | [timeline](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) |
 | [GSOC](https://developers.google.com/open-source/gsoc/) | Yes | [timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)      |
-| [SOCIS](https://socis.esa.int/) | Yes | [timeline](https://socis.esa.int/timeline/)   |
-| [ LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
+| [SOCIS](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space) | Yes | 3 months |
+| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program) | Yes | [timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2020ProgramTimeline*) |
 | [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)| Yes |[timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline)     |
 | [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*| [timeline](https://www.dataone.org/internships)  |
 | [Julia Summer of Code](https://julialang.org/soc/ideas-page)|Yes|[timeline](https://julialang.org/jsoc/guidelines/)|
@@ -33,7 +33,7 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |  |
 | [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes | [timeline](https://erpnext.org/esoc#timeline) |
 | [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |     |
-| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.milleniumfellows.org/the-program)| 
+| [Millennium Fellowship](https://www.millenniumfellows.org/)|No|[timeline](https://www.millenniumfellows.org/the-program)| 
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes | [timeline](https://numfocus.org/programs/john-hunter-technology-fellowship) |
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |[timeline](https://wiki.gnome.org/Internships#Timeline)  |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |[timeline](https://www.igalia.com/about-us/coding-experience) |
@@ -45,7 +45,6 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [PClub Summer Of Code](https://www.pclubsummerofcode.in/) | No | [timeline](https://www.pclubsummerofcode.in/static/mentors/img/PSoC_Mentee_Manual.pdf)|
 | [RubyMe Mentorship Program](https://rubyme.org/) | Yes | |
 | [Vectorised IO*](https://vectorized.io/scholarship/) | Yes | |
-| [24 Pull Requests](https://24pullrequests.com/) | No | [timeline](https://24pullrequests.com/about)|
 
 * *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
 * ** OSoC is only open to Belgian students.
@@ -64,8 +63,9 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | [Halite AI Bot Challenge](https://halite.io/)                                        | Swag rewards for winners                                      | N/A                                                                 |
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage)                    | Prizes For Winners                                            | [timeline](https://www.oss.kr/en_oss_world_challenage#period)       |
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prizes For Winners                                            | N/A                                                                 |
-| [Girlscript Summer of Code](https://gssoc.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://www.gssoc.tech/index.html#sch-heading)           |
+| [Girlscript Summer of Code](https://gssoc.girlscript.tech/)                                      | Prizes, swag rewards and internship opportunities for winners | [timeline](https://gssoc.girlscript.tech/schedule.html)           |
 | [HackinCodes Contributor's Hack](https://hakincodes.tech/)                           | Prizes and swag rewards                                       | [timeline](https://hakincodes.tech/CH20.html)           |
+| [Script Winter of Code](https://swoc.tech/) SWOC                                      | Swag Rewards | [Timeline](https://swoc.tech/) |
 
 * *Indian Students Only
 * ** OSS World Challenge has temporarily stopped accepting international applications.
@@ -75,10 +75,13 @@ All PR's are now being entertained ,Please star this repo in order to get furthe
 | Name                                    | Awards             | Timeline   |
 |-----------------------------------------|----------------------------------- |--------------|
 | [OSS Summer of Innovation](https://oss2019.github.io/SoI.html) | Swag rewards|  |
-| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards|  |
-| [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  |
+| [NJACK Winter Of Code](https://njackwinterofcode.github.io/) | Swag rewards| [timeline](https://njackwinterofcode.github.io/)|
+| [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org/) | Swag rewards|  [timeline](https://kwoc.kossiitkgp.org/#tline)|
 | [OpenCode IIITA](https://opencodeiiita.github.io/) | Swag rewards|  |
 | [FOSSEE Summer Fellowship](https://fossee.in/) | No |   |
-| [DAWOC](https://dawoc.herokuapp.com/) | No  |    |
 | [Winter of Code by NSEC](https://winterofcode.com/) | Swag rewards|  |
-| [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DAIICT) | Prizes, swag rewards and internship opportunities for winners|  |
+| [Semester Long Projects](https://slop.dscdaiict.in/) (SLoP by DA-IICT) | Prizes, swag rewards and internship opportunities for winners|  |
+| [Sanscript Autumn of Open Source](https://aos.sanscript.tech/) | Winner Certificate + Badge + surprise gifts|  |
+| [Delta Winter of Code](https://dwoc.io/) (DWoC) | Certificates to all and Swag rewards| [timeline](https://dwoc.io/)|
+| [DevScript Winter of Code](https://devscript.tech/woc/) (DWoC) | Certificates, SWAGs, Subscriptions, Internship Opportunity| [timeline](https://devscript.tech/woc/)|
+
